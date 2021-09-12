@@ -81,14 +81,14 @@ section {
 
 /* Hero Form Style Start */
 .hero-form {
-    color: #024e76;
+    border: 3px solid #024e76;
     background-color: #fce138;
-    width: 500px;
     padding: 20px;
-    border: 2px solid #39a6b2;
+    width: 500px;
+    color: #024e76;
     position: absolute;
     bottom: 120px;
-    right: 120px;
+    right: 140px;
 }
 
 .hero-form h3 {
